@@ -1,0 +1,32 @@
+body
+{
+
+	background-image: url(mountains.jpg);
+	background-size: cover;
+}
+
+
+li
+{
+	list-style: none;
+	color: #AA7239;
+	display: inline-block;
+}
+
+a{
+	color:#804B15;
+	display: inline-block;  
+  }
+
+h2
+{
+  color : #AA7239;
+  border: solid;
+  text-align: center;
+  cursor: not-allowed;
+}
+
+p
+{
+	color:#552B00;
+}
